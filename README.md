@@ -14,7 +14,7 @@ pip install numpy matplotlib
 
 3. Open ```PyCalcEngine.ipynb``` in **Jupyter Notebook**
 
-### Usage
+### License
 
 1. Import the functions in a notebook:
 ```python
