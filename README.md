@@ -32,7 +32,7 @@ print(result)
 ```
 
 3. Experiment with different families of functions:
-**Examples**
+
 ```python
 f_poly = lambda x: x**3 + 2*x**2 - x # polynomial
 print("Integral of f_poly from 0 to 2:", integral(f_poly, 0, 2))
