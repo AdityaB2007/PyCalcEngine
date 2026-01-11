@@ -14,7 +14,7 @@ pip install numpy matplotlib
 
 3. Open ```PyCalcEngine.ipynb``` in **Jupyter Notebook**
 
-### License
+### Usage
 
 1. Import the functions in a notebook:
 ```python
@@ -47,5 +47,5 @@ print("Integral of exp(x) from 0 to 1:", integral(f_exp, 0, 1))
 plot_function(f_exp, 0, 3)
 ```
 
-### Usage
+### License
 ```This project is open-source and free to use. Feel free to fork, experiment, and improve!```
